@@ -1,0 +1,213 @@
+body{
+	margin-left: 90px;
+	margin-top: 80px;
+	margin-right: 100px;	
+
+}
+
+#firstleft{
+	width: 600px;
+	float: left;
+	height: 200px;
+}
+#firsth1 {
+	border-left: 3px solid #8AB4F8;
+	font-size: 30px;
+	font-family: cursive;
+}
+#firsth1 h1{
+	margin: 8px;
+}
+.stay{
+	color:#F28454 ;
+}
+#section1 p{
+	width: 500px;
+	margin-top: 30px;
+}
+.firstbutton{
+	margin-top: 10px;
+   	background:linear-gradient(
+45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    font-size: 16px;
+}
+.firstbutton a{
+    text-decoration: none;
+    color: white;
+}
+.firstbutton a:hover{
+	color:  #353744;
+
+}
+
+#firstimg img{
+	width: 400px;
+	height: 400px;
+	margin-left: 120px;
+	
+}
+
+#middle{
+	
+	font-size: 20px;
+	font-family: cursive;
+	margin-top: 50px;
+	text-align: center;
+}
+
+#wrapper{
+	height: 350px;
+	width: 350px;
+	background-color: #EEF6F7;
+	border-radius: 5%;
+	float: left;
+	margin-right: 35px;
+
+}
+
+#illus img{
+	height: 122px;
+	width: 162px;
+}
+#article{
+	margin-left: 20px;
+}
+
+
+#section2 img{
+	height: 370px;
+	width: 370px;
+	margin-top: 90px;
+	float: left;
+
+}
+
+#articlee h1{
+	font-weight: bold;
+	font-family: cursive;
+
+
+}
+#articlee{
+	height: 370px;
+	width: 500px;
+	margin-top: 90px;
+	float: left;
+	margin-left: 100px;
+}
+
+
+
+
+
+
+#thirdleft{
+	width: 600px;
+	float: left;
+	height: 200px;
+	margin-top: 80px;
+}
+#thirdh1 {
+	
+	font-size: 30px;
+	font-family: cursive;
+}
+#thirdh1 h1{
+	margin: 8px;
+}
+
+#section3 p{
+	width: 500px;
+	margin-top: 30px;
+}
+.thirdbutton{
+	margin-top: 10px;
+   	background:linear-gradient(
+45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    font-size: 16px;
+}
+.thirdbutton a{
+    text-decoration: none;
+    color: white;
+}
+.thirdbutton a:hover{
+	color:  #353744;
+
+}
+
+#thirdimg img{
+	width: 360px;
+	height: 360px;
+	margin-left: 120px;
+	margin-top: 80px;
+	
+}
+
+
+#ui{
+	text-align: center;
+	margin-top: 60px;
+	font-family: cursive;
+
+	font-size: 39px;
+
+}
+.web{
+	color: orange;
+}
+
+
+
+
+
+
+
+
+#section4 img{
+	height: 500px;
+	width: 370px;
+	margin-top: 90px;
+	float: left;
+	margin-left: 100px;
+
+}
+
+#articlee h1{
+	font-weight: bold;
+	font-family: cursive;
+
+
+}
+#articlee{
+	height: 500px;
+	width: 500px;
+	margin-top: 150px;
+	float: left;
+	margin-left: 100px;
+
+}
+
+
+#footer{
+	text-align: center;
+	background-color:black;
+	height: 90px;
+	
+	margin-top: 669px;
+	color: white;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+
